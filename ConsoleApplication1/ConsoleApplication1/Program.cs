@@ -12,6 +12,7 @@ namespace ConsoleApplication1
         {
             Console.WriteLine("pushing the commited code to new repo");
             Console.WriteLine("adding to new branch");
+            Console.ReadLine();
         }
     }
 }
