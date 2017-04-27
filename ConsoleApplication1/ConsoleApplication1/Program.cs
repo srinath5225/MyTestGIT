@@ -11,6 +11,7 @@ namespace ConsoleApplication1
         static void Main(string[] args)
         {
             Console.WriteLine("pushing the commited code to new repo");
+            Console.WriteLine("adding to new branch");
         }
     }
 }
