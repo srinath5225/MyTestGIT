@@ -10,6 +10,7 @@ namespace StringManipulationsInternal
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("my second commit");
             Console.WriteLine("Please Enter the Username :");
             string userName = Console.ReadLine();
             string middleName = string.Empty;
